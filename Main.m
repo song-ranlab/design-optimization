@@ -10,7 +10,7 @@ x_des_0 = [0.03,    %A_auv
            1.5,    %L_auv
            0.5,    %U
            0.5,    %E
-           4.45];   %A_dock
+           0.5];   %A_dock
 
 
 %Call solver to minimize the objective function given the constraints
